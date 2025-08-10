@@ -4,7 +4,7 @@
 This project analyzes the fulfillment rate performance of a beauty supply chain company, with a current rate of **73.65%**, which is below industry benchmarks. The goal is to identify possible factors driving low fulfillment rates using available operational data.
 
 ## Dataset
-- **Source:** [Kaggle - Supply Chain Data]([https://www.kaggle.com/datasets/...](https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis))
+- **Source:** [Kaggle - Supply Chain Data]([https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis])
 - **Key Features:** Order Quantities, Stock Levels, Availability (used as proxy for fulfillment), Lead Time, Shipping Time.
 
 ## Tools & Libraries
