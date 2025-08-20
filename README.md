@@ -20,7 +20,7 @@ Python, Pandas, Matplotlib, Seaborn, Looker Studio (Google Data Studio)
 ## Dashboard
 [**View Interactive Dashboard on Looker Studio**](https://lookerstudio.google.com/reporting/d66c89c4-75d7-49a8-b05b-cd51bcda3ba7)
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard_Preview.png)
 
 ## Project Files
 - [Notebook](fulfillment-rate-analysis-in-a-beauty-supply-chain.ipynb)
